@@ -1,0 +1,2257 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AkuzelUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AkuzelUI.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\blue.css",
+      "PackagePath": "staticwebassets\\css\\colors\\blue.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\green.css",
+      "PackagePath": "staticwebassets\\css\\colors\\green.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\orange.css",
+      "PackagePath": "staticwebassets\\css\\colors\\orange.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\purple.css",
+      "PackagePath": "staticwebassets\\css\\colors\\purple.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\red.css",
+      "PackagePath": "staticwebassets\\css\\colors\\red.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\colors\\yellow.css",
+      "PackagePath": "staticwebassets\\css\\colors\\yellow.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\custom\\Site-Panel.css",
+      "PackagePath": "staticwebassets\\css\\custom\\Site-Panel.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\custom\\homepage.css",
+      "PackagePath": "staticwebassets\\css\\custom\\homepage.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\datetimepicker\\datetimepicker.min.css",
+      "PackagePath": "staticwebassets\\css\\datetimepicker\\datetimepicker.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\icons.css",
+      "PackagePath": "staticwebassets\\css\\icons.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\invoice.css",
+      "PackagePath": "staticwebassets\\css\\invoice.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\navbar.css",
+      "PackagePath": "staticwebassets\\css\\navbar.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\dx.light.css",
+      "PackagePath": "staticwebassets\\devextreme\\css\\dx.light.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxicons.ttf",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxicons.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxicons.woff",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxicons.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxicons.woff2",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxicons.woff2"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsfluent.ttf",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsfluent.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsfluent.woff",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsfluent.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsfluent.woff2",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsfluent.woff2"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsmaterial.ttf",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsmaterial.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsmaterial.woff",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsmaterial.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\icons\\dxiconsmaterial.woff2",
+      "PackagePath": "staticwebassets\\devextreme\\css\\icons\\dxiconsmaterial.woff2"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\css\\styles.css",
+      "PackagePath": "staticwebassets\\devextreme\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\images\\buttons_sprite.png",
+      "PackagePath": "staticwebassets\\devextreme\\images\\buttons_sprite.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\images\\logoStockMarket.png",
+      "PackagePath": "staticwebassets\\devextreme\\images\\logoStockMarket.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\cldr.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\event.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\event.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\supplemental.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\supplemental.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\unresolved.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\unresolved.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\dx.all.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\dx.all.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\globalize.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\currency.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\currency.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\date.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\date.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\message.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\message.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\number.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\number.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\jquery.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\knockout-latest.debug.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\knockout-latest.debug.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\knockout-latest.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\knockout-latest.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\scripts\\scripts.js",
+      "PackagePath": "staticwebassets\\devextreme\\scripts\\scripts.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Brand-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Brand-Icons.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Brand-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Brand-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Brand-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Brand-Icons.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Feather-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Feather-Icons.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Feather-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Feather-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Feather-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Feather-Icons.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Line-Awesome.svg",
+      "PackagePath": "staticwebassets\\fonts\\Line-Awesome.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Line-Awesome.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Line-Awesome.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Line-Awesome.woff",
+      "PackagePath": "staticwebassets\\fonts\\Line-Awesome.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Material-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Material-Icons.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Material-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\fonts\\Material-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Icons.woff"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-01a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-01a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-02a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-02a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-03a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-03a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-04.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-04.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-04a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-04a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-05a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-05a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-06a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-06a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\blog-07a.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-07a.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\browse-companies-02.png",
+      "PackagePath": "staticwebassets\\images\\browse-companies-02.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\browse-companies-03.png",
+      "PackagePath": "staticwebassets\\images\\browse-companies-03.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\browse-companies-04.png",
+      "PackagePath": "staticwebassets\\images\\browse-companies-04.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-01.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-01.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-02.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-02.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-03.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-03.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-03a.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-03a.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-04.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-04.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-05.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-05.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-06.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-06.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-placeholder-alt.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-placeholder-alt.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\company-logo-placeholder.png",
+      "PackagePath": "staticwebassets\\images\\company-logo-placeholder.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\featured-city-01.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-city-01.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\featured-city-02.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-city-02.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\featured-city-03.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-city-03.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\featured-city-04.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-city-04.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\LICENSE",
+      "PackagePath": "staticwebassets\\images\\flags"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ad.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ad.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ae.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ae.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\af.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\af.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ag.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ag.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ai.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ai.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\al.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\al.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\am.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\am.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ao.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ao.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\aq.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\aq.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ar.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ar.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\as.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\as.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\at.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\at.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\au.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\aw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\aw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ax.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ax.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\az.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\az.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ba.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ba.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bb.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bb.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bd.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bd.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\be.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\be.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bi.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bi.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bj.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bj.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bo.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bo.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bq.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bq.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\br.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\br.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bs.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bs.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\by.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\by.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\bz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\bz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ca.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ca.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cd.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cd.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ch.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ch.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ci.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ci.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ck.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ck.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\co.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\co.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cx.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cx.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cy.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cy.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\cz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\cz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\de.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\de.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\dj.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\dj.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\dk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\dk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\dm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\dm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\do.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\do.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\dz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\dz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ec.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ec.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ee.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ee.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\eg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\eg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\eh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\eh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\er.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\er.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\es-ct.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\es-ct.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\es.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\es.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\et.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\et.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\eu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\eu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fi.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fi.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fj.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fj.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fo.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fo.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\fr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\fr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ga.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ga.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gb-eng.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gb-eng.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gb-nir.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gb-nir.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gb-sct.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gb-sct.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gb-wls.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gb-wls.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gb.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gd.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gd.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ge.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ge.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gi.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gi.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gp.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gp.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gq.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gq.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gs.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gs.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\gy.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\gy.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\hk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\hk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\hm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\hm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\hn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\hn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\hr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\hr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ht.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ht.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\hu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\hu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\id.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\id.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ie.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ie.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\il.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\il.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\im.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\im.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\in.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\in.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\io.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\io.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\iq.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\iq.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ir.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ir.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\is.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\is.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\it.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\it.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\je.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\je.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\jm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\jm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\jo.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\jo.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\jp.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\jp.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ke.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ke.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ki.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ki.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\km.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\km.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kp.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kp.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ky.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ky.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\kz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\kz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\la.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\la.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lb.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lb.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\li.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\li.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ls.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ls.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\lv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\lv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ly.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ly.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ma.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ma.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\md.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\md.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\me.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\me.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ml.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ml.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mo.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mo.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mp.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mp.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mq.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mq.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ms.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ms.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mx.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mx.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\my.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\my.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\mz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\mz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\na.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\na.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ne.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ne.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ng.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ng.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ni.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ni.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\no.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\no.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\np.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\np.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\nz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\nz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\om.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\om.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pa.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pa.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pe.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pe.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ph.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ph.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ps.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ps.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\pw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\pw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\py.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\py.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\qa.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\qa.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\re.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\re.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ro.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ro.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\rs.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\rs.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ru.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\rw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\rw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sa.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sa.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sb.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sb.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sd.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sd.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\se.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\se.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sh.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sh.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\si.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\si.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sj.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sj.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\so.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\so.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ss.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ss.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\st.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\st.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sx.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sx.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sy.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sy.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\sz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\sz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\td.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\td.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\th.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\th.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tj.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tj.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tk.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tk.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tl.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tl.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\to.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\to.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tr.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tr.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tv.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tv.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\tz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\tz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ua.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ua.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ug.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ug.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\um.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\um.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\un.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\un.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\us.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\uy.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\uy.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\uz.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\uz.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\va.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\va.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\vc.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\vc.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ve.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ve.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\vg.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\vg.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\vi.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\vi.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\vn.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\vn.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\vu.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\vu.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\wf.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\wf.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ws.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ws.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\ye.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\ye.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\yt.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\yt.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\za.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\za.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\zm.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\zm.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\flags\\zw.svg",
+      "PackagePath": "staticwebassets\\images\\flags\\zw.svg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\home-background-02.jpg",
+      "PackagePath": "staticwebassets\\images\\home-background-02.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\home-background.jpg",
+      "PackagePath": "staticwebassets\\images\\home-background.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\home-video-background-poster.jpg",
+      "PackagePath": "staticwebassets\\images\\home-video-background-poster.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-01.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-01.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-02.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-02.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-03.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-03.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-04.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-04.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-05.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-05.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-06.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-06.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-07.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-07.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\job-category-08.jpg",
+      "PackagePath": "staticwebassets\\images\\job-category-08.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-01.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-01.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-02.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-02.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-03.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-03.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-04.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-04.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-05.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-05.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo-carousel-06.png",
+      "PackagePath": "staticwebassets\\images\\logo-carousel-06.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\logo2.png",
+      "PackagePath": "staticwebassets\\images\\logo2.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\section-background.jpg",
+      "PackagePath": "staticwebassets\\images\\section-background.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\single-company.jpg",
+      "PackagePath": "staticwebassets\\images\\single-company.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\single-freelancer.jpg",
+      "PackagePath": "staticwebassets\\images\\single-freelancer.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\single-job.jpg",
+      "PackagePath": "staticwebassets\\images\\single-job.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\single-task.jpg",
+      "PackagePath": "staticwebassets\\images\\single-task.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-big-01.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-big-01.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-big-02.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-big-02.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-big-03.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-big-03.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-placeholder.png",
+      "PackagePath": "staticwebassets\\images\\user-avatar-placeholder.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-small-01.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-small-01.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-small-02.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-small-02.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\images\\user-avatar-small-03.jpg",
+      "PackagePath": "staticwebassets\\images\\user-avatar-small-03.jpg"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\bootstrap-select.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-select.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\bootstrap-slider.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-slider.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\chart.min.js",
+      "PackagePath": "staticwebassets\\js\\chart.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\clipboard.min.js",
+      "PackagePath": "staticwebassets\\js\\clipboard.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\counterup.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\datetimepicker\\datetimepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\datetimepicker.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\datetimepicker\\moment-with-locales.js",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\moment-with-locales.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\datetimepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\datetimepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\employees.js",
+      "PackagePath": "staticwebassets\\js\\employees.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\index.js",
+      "PackagePath": "staticwebassets\\js\\index.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\infobox.min.js",
+      "PackagePath": "staticwebassets\\js\\infobox.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-autocomplete.js",
+      "PackagePath": "staticwebassets\\js\\leaflet-autocomplete.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-control-geocoder.js",
+      "PackagePath": "staticwebassets\\js\\leaflet-control-geocoder.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-gesture-handling.min.js",
+      "PackagePath": "staticwebassets\\js\\leaflet-gesture-handling.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-hireo.js",
+      "PackagePath": "staticwebassets\\js\\leaflet-hireo.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-markercluster.min.js",
+      "PackagePath": "staticwebassets\\js\\leaflet-markercluster.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet.min.js",
+      "PackagePath": "staticwebassets\\js\\leaflet.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\markerclusterer.js",
+      "PackagePath": "staticwebassets\\js\\markerclusterer.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\mmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\mmenu.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\js\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\popper\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\snackbar.js",
+      "PackagePath": "staticwebassets\\js\\snackbar.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\tippy.all.min.js",
+      "PackagePath": "staticwebassets\\js\\tippy.all.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\_custom.scss",
+      "PackagePath": "staticwebassets\\sass\\_custom.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\_variables.scss",
+      "PackagePath": "staticwebassets\\sass\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\dashboard\\_dashboard-basics.scss",
+      "PackagePath": "staticwebassets\\sass\\dashboard\\_dashboard-basics.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\dashboard\\_dashboard-gui-elements.scss",
+      "PackagePath": "staticwebassets\\sass\\dashboard\\_dashboard-gui-elements.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\dashboard\\_dashboard-messages.scss",
+      "PackagePath": "staticwebassets\\sass\\dashboard\\_dashboard-messages.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\dashboard\\_dashboard-navigation.scss",
+      "PackagePath": "staticwebassets\\sass\\dashboard\\_dashboard-navigation.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_back-to-top.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_back-to-top.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_bidding-widget.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_bidding-widget.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_boxed-list.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_boxed-list.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_category-boxes.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_category-boxes.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_checkbox.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_checkbox.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_clickable-tags.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_clickable-tags.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_copy-to-clipboard.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_copy-to-clipboard.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_countdown.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_countdown.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_counters.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_counters.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_custom-upload-button.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_custom-upload-button.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_icon-boxes.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_icon-boxes.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_intro-banner.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_intro-banner.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_leave-rating-stars.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_leave-rating-stars.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_lists.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_marks.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_marks.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_notification-boxes.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_notification-boxes.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_notify-box.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_notify-box.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_on-off-switch.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_on-off-switch.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_photo-box.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_photo-box.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_photo-section.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_photo-section.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_pricing-plans.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_pricing-plans.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_radio-button.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_radio-button.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_ripple-effect.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_ripple-effect.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_share-buttons.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_share-buttons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_star-rating.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_star-rating.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_tables.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_tabs.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_testimonials.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_testimonials.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\gui\\_verified-badge.scss",
+      "PackagePath": "staticwebassets\\sass\\gui\\_verified-badge.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\icons\\_brand-icons.scss",
+      "PackagePath": "staticwebassets\\sass\\icons\\_brand-icons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\icons\\_feather-icons.scss",
+      "PackagePath": "staticwebassets\\sass\\icons\\_feather-icons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\icons\\_line-awesome-icons.scss",
+      "PackagePath": "staticwebassets\\sass\\icons\\_line-awesome-icons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\icons\\_material-icons.scss",
+      "PackagePath": "staticwebassets\\sass\\icons\\_material-icons.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\invoice.scss",
+      "PackagePath": "staticwebassets\\sass\\invoice.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_404-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_404-page.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_blog.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_blog.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_checkout-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_checkout-page.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_common-typography.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_common-typography.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_contact-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_contact-page.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_form-styles.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_form-styles.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_header-notifications.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_header-notifications.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_mobile-navigation.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_mobile-navigation.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_navigation.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_navigation.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_offsets.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_offsets.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_sidebar-styles.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_sidebar-styles.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_single-freelancer-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_single-freelancer-page.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_single-job-page.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_single-job-page.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_titlebar.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_titlebar.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\layout\\_user-menu.scss",
+      "PackagePath": "staticwebassets\\sass\\layout\\_user-menu.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_companies-list.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_companies-list.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_freelancers-grid-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_freelancers-grid-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_freelancers-list-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_freelancers-list-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_full-page-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_full-page-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_jobs-compact-list-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_jobs-compact-list-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_jobs-grid-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_jobs-grid-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_jobs-list-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_jobs-list-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_tasks-grid-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_tasks-grid-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\listings\\_tasks-list-layout.scss",
+      "PackagePath": "staticwebassets\\sass\\listings\\_tasks-list-layout.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_button.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_button.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_category.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_category.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_countdown.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_countdown.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_course.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_course.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_datetimepicker.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_datetimepicker.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_event.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_event.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_feature-info.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_feature-info.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_gallery.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_gallery.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_list.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_list.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_owl-carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_owl-carousel.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_pricing.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_pricing.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_progress-bar.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_range-slider.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_range-slider.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_select.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_select.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_shuffle.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_shuffle.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_tabs.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_teachers.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_teachers.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\shortcodes\\_testimonial.scss",
+      "PackagePath": "staticwebassets\\sass\\shortcodes\\_testimonial.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_bootstrap-range-slider.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_bootstrap-range-slider.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_bootstrap-select.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_bootstrap-select.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_custom-scrollbar.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_custom-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_google-autocomplete.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_google-autocomplete.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_leaflet-maps.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_leaflet-maps.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_maps.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_popups.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_popups.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_slick-carousel.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_slick-carousel.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_snackbar.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_snackbar.scss"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\sass\\vendor\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\sass\\vendor\\_tooltips.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AkuzelUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AkuzelUI.props",
+      "PackagePath": "build\\AkuzelUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AkuzelUI.props",
+      "PackagePath": "buildMultiTargeting\\AkuzelUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AkuzelUI.props",
+      "PackagePath": "buildTransitive\\AkuzelUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\components\\dashboard\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\dashboard\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\viewcomponents\\userviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\viewcomponents\\userviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\viewcomponents\\dashboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\viewcomponents\\dashboardviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\invoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\invoice.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\custom\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\custom\\homepage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\icons.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scripts.js",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\devextreme\\scripts\\scripts.js",
+              "RelativeDocumentMoniker": "wwwroot\\devextreme\\scripts\\scripts.js",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\devextreme\\scripts\\scripts.js",
+              "RelativeToolTip": "wwwroot\\devextreme\\scripts\\scripts.js",
+              "ViewState": "AQIAACkBAAAAAAAAAAAkwD0BAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-06T01:50:33.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.js",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\js\\index.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\index.js",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\js\\index.js",
+              "RelativeToolTip": "wwwroot\\js\\index.js",
+              "ViewState": "AQIAAFgAAAAAAAAAAADwv4wAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-06T00:40:03.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T00:02:07.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserViewComponent.cs",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\ViewComponents\\UserViewComponent.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\ViewComponents\\UserViewComponent.cs",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\ViewComponents\\UserViewComponent.cs",
+              "RelativeToolTip": "Areas\\Admin\\ViewComponents\\UserViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:13:53.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\Dashboard\\Default.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\Dashboard\\Default.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\Dashboard\\Default.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\Dashboard\\Default.cshtml",
+              "ViewState": "AQIAABQBAAAAAAAAAAAIwHIBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T22:19:01.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardViewComponent.cs",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\ViewComponents\\DashboardViewComponent.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\ViewComponents\\DashboardViewComponent.cs",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\ViewComponents\\DashboardViewComponent.cs",
+              "RelativeToolTip": "Areas\\Admin\\ViewComponents\\DashboardViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T22:15:54.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:15:06.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:14:05.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:14:04.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:10:46.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T18:10:25.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:56:54.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:56:50.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:52:13.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFgBAAAAAAAAAAAkwHABAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:49:47.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-05T17:48:50.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T17:33:10.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-05T17:28:12.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "homepage.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\custom\\homepage.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom\\homepage.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\custom\\homepage.css",
+              "RelativeToolTip": "wwwroot\\css\\custom\\homepage.css",
+              "ViewState": "AQIAAAYCAAAAAAAAAAAswD8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-05T17:10:39.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "navbar.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\navbar.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\navbar.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\navbar.css",
+              "RelativeToolTip": "wwwroot\\css\\navbar.css",
+              "ViewState": "AQIAAAgCAAAAAAAAAAAswEECAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-04T09:52:58.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "wwwroot\\css\\style.css",
+              "ViewState": "AQIAAEkAAAAAAAAAAABDwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T11:37:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "invoice.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\invoice.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\invoice.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\invoice.css",
+              "RelativeToolTip": "wwwroot\\css\\invoice.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T11:37:09.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "icons.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\icons.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\icons.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\icons.css",
+              "RelativeToolTip": "wwwroot\\css\\icons.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T11:37:09.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-03T11:37:08.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAPEBAAAAAAAAAAAAAPsBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-03T10:01:42.205Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,6 @@
-﻿@* <style type="text/javascript">
+﻿@* @using DevExtreme.AspNet.Data;
+@using DevExpress.AspNetCore; *@
+@* <style type="text/javascript">
 	$(document).ready(function () {
 			$("#dataGrid").dxDataGrid({
 				dataSource: yourDataSource, // Veri kaynağınızı buraya belirtin
@@ -77,13 +79,26 @@
 				</div>
 			</div>
 			<div class="content">
-				<div id="heading">
+			@* 	<div id="heading">
 					<h2>Summary</h2>
 				</div>
 				<div class="chart" id="candles"></div>
 				<div class="chart" id="bar"></div>
 				<div id="pivotgrid"></div>
-				<div class="chart" id="line"></div>
+				<div class="chart" id="line"></div> *@
+@* 
+				@(Html.DataGrid()
+								.DataSource(d => d.Mvc()
+								.Controller("YourController")
+								.LoadAction("YourAction")
+								)
+								.Columns(columns =>
+								{
+									columns.AddFor(m => m.Property1);
+									columns.AddFor(m => m.Property2);
+									// Diğer sütunlar
+								})
+								) *@
 			</div>
 
 		</div>

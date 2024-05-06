@@ -224,3 +224,5 @@ D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\bin\Debug\net8.0\runtimes\
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\AkuzelUI.csproj.AssemblyReference.cache
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\AkuzelUI.csproj.Up2Date
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\bin\Debug\net8.0\DevExtreme.AspNet.Data.dll
+D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\AkuzelUI.sourcelink.json

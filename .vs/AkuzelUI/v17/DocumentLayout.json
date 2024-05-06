@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,8 +15,8 @@
       "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\user\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|solutionrelative:wwwroot\\devextreme\\scripts\\scripts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3B92CC12-4255-460B-B36A-1550A39C90A1}|AkuzelUI.csproj|d:\\zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\akuzelui\\wwwroot\\js\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -110,7 +110,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "scripts.js",
               "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\devextreme\\scripts\\scripts.js",
               "RelativeDocumentMoniker": "wwwroot\\devextreme\\scripts\\scripts.js",
@@ -155,19 +155,21 @@
               "RelativeToolTip": "wwwroot\\js\\index.js",
               "ViewState": "AQIAAFgAAAAAAAAAAADwv4wAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-05-06T00:40:03.22Z"
+              "WhenOpened": "2024-05-06T00:40:03.22Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Default.cshtml",
               "DocumentMoniker": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
               "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\User\\Default.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAFUAAAAnAAAA",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAvwGQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T00:02:07.278Z"
+              "WhenOpened": "2024-05-06T00:02:07.278Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -179,7 +181,8 @@
               "RelativeToolTip": "Areas\\Admin\\ViewComponents\\UserViewComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T23:13:53.751Z"
+              "WhenOpened": "2024-05-05T23:13:53.751Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -191,7 +194,8 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\Dashboard\\Default.cshtml",
               "ViewState": "AQIAABQBAAAAAAAAAAAIwHIBAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T22:19:01.646Z"
+              "WhenOpened": "2024-05-05T22:19:01.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -203,7 +207,8 @@
               "RelativeToolTip": "Areas\\Admin\\ViewComponents\\DashboardViewComponent.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T22:15:54.817Z"
+              "WhenOpened": "2024-05-05T22:15:54.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -215,7 +220,8 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwEAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T18:15:06.483Z"
+              "WhenOpened": "2024-05-05T18:15:06.483Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -227,7 +233,8 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T18:14:05.528Z"
+              "WhenOpened": "2024-05-05T18:14:05.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -239,7 +246,8 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T18:14:04.535Z"
+              "WhenOpened": "2024-05-05T18:14:04.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,7 +259,8 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T18:10:46.235Z"
+              "WhenOpened": "2024-05-05T18:10:46.235Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -263,7 +272,8 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T18:10:25.432Z"
+              "WhenOpened": "2024-05-05T18:10:25.432Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -275,7 +285,8 @@
               "RelativeToolTip": "Views\\Shared\\Error.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T17:56:54.06Z"
+              "WhenOpened": "2024-05-05T17:56:54.06Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -287,7 +298,8 @@
               "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T17:56:50.862Z"
+              "WhenOpened": "2024-05-05T17:56:50.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -299,7 +311,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:52:13.105Z"
+              "WhenOpened": "2024-05-05T17:52:13.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -309,9 +322,10 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAFgBAAAAAAAAAAAkwHABAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T17:49:47.103Z"
+              "WhenOpened": "2024-05-05T17:49:47.103Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -323,7 +337,8 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-05T17:48:50.953Z"
+              "WhenOpened": "2024-05-05T17:48:50.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -335,7 +350,8 @@
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-05T17:33:10.937Z"
+              "WhenOpened": "2024-05-05T17:33:10.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -347,7 +363,8 @@
               "RelativeToolTip": "ScaffoldingReadMe.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-05-05T17:28:12.892Z"
+              "WhenOpened": "2024-05-05T17:28:12.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -359,7 +376,8 @@
               "RelativeToolTip": "wwwroot\\css\\custom\\homepage.css",
               "ViewState": "AQIAAAYCAAAAAAAAAAAswD8CAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-05T17:10:39.315Z"
+              "WhenOpened": "2024-05-05T17:10:39.315Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -371,7 +389,8 @@
               "RelativeToolTip": "wwwroot\\css\\navbar.css",
               "ViewState": "AQIAAAgCAAAAAAAAAAAswEECAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-04T09:52:58.052Z"
+              "WhenOpened": "2024-05-04T09:52:58.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -381,9 +400,10 @@
               "RelativeDocumentMoniker": "wwwroot\\css\\style.css",
               "ToolTip": "D:\\Zuraf\\bionluk\\i\u015Fler\\meymenetror sipari\u015F\\AkuzelUI\\wwwroot\\css\\style.css",
               "RelativeToolTip": "wwwroot\\css\\style.css",
-              "ViewState": "AQIAAEkAAAAAAAAAAABDwAAAAAAAAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAABTwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-03T11:37:09.567Z"
+              "WhenOpened": "2024-05-03T11:37:09.567Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -395,7 +415,8 @@
               "RelativeToolTip": "wwwroot\\css\\invoice.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-03T11:37:09.453Z"
+              "WhenOpened": "2024-05-03T11:37:09.453Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -407,7 +428,8 @@
               "RelativeToolTip": "wwwroot\\css\\icons.css",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-03T11:37:09.313Z"
+              "WhenOpened": "2024-05-03T11:37:09.313Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -419,7 +441,8 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-03T11:37:08.891Z"
+              "WhenOpened": "2024-05-03T11:37:08.891Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -431,7 +454,8 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAPEBAAAAAAAAAAAAAPsBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-03T10:01:42.205Z"
+              "WhenOpened": "2024-05-03T10:01:42.205Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -226,3 +226,4 @@ D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\AkuzelUI.
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\scopedcss\Areas\Admin\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\bin\Debug\net8.0\DevExtreme.AspNet.Data.dll
 D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\obj\Debug\net8.0\AkuzelUI.sourcelink.json
+D:\Zuraf\bionluk\işler\meymenetror sipariş\AkuzelUI\bin\Debug\net8.0\DevExpress.Data.v23.2.dll

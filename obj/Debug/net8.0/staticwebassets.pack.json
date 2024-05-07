@@ -125,60 +125,12 @@
       "PackagePath": "staticwebassets\\devextreme\\images\\logoStockMarket.png"
     },
     {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\cldr.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\event.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\event.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\supplemental.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\supplemental.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\cldr\\unresolved.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\cldr\\unresolved.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\dx.all.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\dx.all.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\globalize.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\currency.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\currency.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\date.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\date.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\message.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\message.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\globalize\\number.min.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\globalize\\number.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\jquery.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\jquery.js"
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\jquery.easing.min.js",
+      "PackagePath": "staticwebassets\\devextreme\\js\\jquery.easing.min.js"
     },
     {
       "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\jquery.min.js",
       "PackagePath": "staticwebassets\\devextreme\\js\\jquery.min.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\knockout-latest.debug.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\knockout-latest.debug.js"
-    },
-    {
-      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\js\\knockout-latest.js",
-      "PackagePath": "staticwebassets\\devextreme\\js\\knockout-latest.js"
     },
     {
       "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\devextreme\\scripts\\scripts.js",
@@ -1539,6 +1491,106 @@
     {
       "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-migrate-3.3.2.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\AUTHORS.txt"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_diagonal-maze_0_1b2129_10x10.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_diagonal-maze_0_1b2129_10x10.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_diagonal-maze_0_2c3e50_10x10.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_diagonal-maze_0_2c3e50_10x10.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_2c3e50_60x60.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_2c3e50_60x60.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_34495e_60x60.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_34495e_60x60.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_415b76_60x60.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_415b76_60x60.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_ecf0f1_60x60.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_fine-grain_0_ecf0f1_60x60.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_spotlight_0_34495e_600x600.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_spotlight_0_34495e_600x600.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_spotlight_0_ffffff_600x600.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-bg_spotlight_0_ffffff_600x600.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_3572ac_256x240.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_3572ac_256x240.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_e74c3c_256x240.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_e74c3c_256x240.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\index.html",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\index.html"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\jquery-ui-1.13.3.custom\\package.json",
+      "PackagePath": "staticwebassets\\js\\jquery-ui-1.13.3.custom\\package.json"
     },
     {
       "Id": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\wwwroot\\js\\leaflet-autocomplete.js",

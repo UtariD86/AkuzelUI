@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "GkNGWX8Eh39Zs9awGDZdYhhtgtdKf7YeiluM4czcRIoGnnE/5MtcFnVYMyZIRlkuP9pan4sTK+uY15mfIBJqhA==",
+  "dgSpecHash": "uJ7wD/8agungxrG8abZepuzwfHxt0zQCrzZSr0IXTUYWDCHvH0Z8UwoF5Xiuo8peePr1WqufMwq7UiLtnFAMew==",
   "success": true,
   "projectFilePath": "D:\\Zuraf\\bionluk\\işler\\meymenetror sipariş\\AkuzelUI\\AkuzelUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\l340\\.nuget\\packages\\devexpress.data\\23.2.5\\devexpress.data.23.2.5.nupkg.sha512",
+    "C:\\Users\\l340\\.nuget\\packages\\devextreme.aspnet.data\\3.0.0\\devextreme.aspnet.data.3.0.0.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
@@ -69,6 +71,7 @@
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.24\\microsoft.codeanalysis.razor.6.0.24.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.8.0\\microsoft.codeanalysis.scripting.common.4.8.0.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.8.0\\microsoft.codeanalysis.workspaces.common.4.8.0.nupkg.sha512",
+    "C:\\Users\\l340\\.nuget\\packages\\microsoft.csharp\\4.4.0\\microsoft.csharp.4.4.0.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.diasymreader\\2.0.0\\microsoft.diasymreader.2.0.0.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\8.0.2\\microsoft.dotnet.scaffolding.shared.8.0.2.nupkg.sha512",
     "C:\\Users\\l340\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",

@@ -1,0 +1,179 @@
+﻿@using AkuzelUI.Areas.Admin.Models
+@model ListeVeriEditViewModel;
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Default Modal Visible</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="modal fade show" id="modal-default" style="display: block;" aria-modal="true" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h4 class="modal-title">Liste Veri</h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+
+                    <form id="listeveri-form" asp-area="Admin" asp-controller="ListeVeri" asp-action="AddOrUpdate" method="post" enctype="multipart/form-data">
+                        <div class="input-with-icon-left">
+                            <label class="float-setting text-dark fw-bold" for="TypeId">Veri Tipi</label>
+                            @Html.DropDownListFor(
+                                     m => m.TypeId,
+                                     Model.TypeList,
+                                     "Veri Tipini Seçiniz",
+                                     new { @class = "with-border form-control form-setting" }
+                                     )
+                            @Html.ValidationMessageFor(m => m.TypeId)
+                        </div>
+
+                        <hr />
+
+                        <div class="input-with-icon-left">
+                            <label class="float-setting text-dark fw-bold" for="UstId">Üst Veri</label>
+                            @Html.DropDownListFor(
+                                     m => m.UstId,
+                                     Model.TypeList,
+                                     "Önce Veri Tipini Seçiniz",
+                                     new { @class = "with-border form-control form-setting", @disabled = "true" }
+                                     )
+                            @Html.ValidationMessageFor(m => m.UstId)
+                        </div>
+
+                        <hr />
+
+                        <div class="form-group">
+                            <label for="Deger">Veri</label>
+                            @Html.TextBoxFor(m => m.Deger, new { @class = "form-control", placeholder = "Veri giriniz" })
+                            @Html.ValidationMessageFor(m => m.Deger)
+                        </div>
+
+                        <hr />
+
+                        <div class="form-group row">
+                            <div class="col-md-4">
+                                <label for="Derinlik">Derinlik</label>
+                                <div class="input-group">
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number" data-type="minus" data-field="Derinlik">
+                                            <span class="glyphicon glyphicon-minus">-</span>
+                                        </button>
+                                    </span>
+                                    @Html.TextBoxFor(m => m.Derinlik, new { @class = "form-control input-number", @min = "0", @max = "300" })
+                                    <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default btn-number" data-type="plus" data-field="Derinlik">
+                                            <span class="glyphicon glyphicon-plus">+</span>
+                                        </button>
+                                    </span>
+                                </div>
+                                @Html.ValidationMessageFor(m => m.Derinlik)
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label for="EkId">Ek Id</label>
+                                    @Html.TextBoxFor(m => m.EkId, new { @class = "form-control", placeholder = "Ek Id giriniz" })
+                                    @Html.ValidationMessageFor(m => m.EkId)
+                                </div>
+                            </div>
+                        </div>
+
+                        <hr />
+
+                        <div class="form-group">
+                            <label for="EkDeger">Ek Değer</label>
+                            @Html.TextAreaFor(m => m.EkDeger, new { @class = "form-control", rows = 3, placeholder = "Ek değer giriniz" })
+                            @Html.ValidationMessageFor(m => m.EkDeger)
+                        </div>
+
+                        <hr />
+
+                        <div class="form-group">
+                            <label for="Aciklama">Açıklama</label>
+                            @Html.TextAreaFor(m => m.Aciklama, new { @class = "form-control", rows = 3, placeholder = "Açıklama giriniz" })
+                            @Html.ValidationMessageFor(m => m.Aciklama)
+                        </div>
+
+                        <hr />
+
+                        @* <div class="form-group">
+                            <label for="exampleInputFile">Dosya</label>
+                            <div class="input-group">
+                                <div class="custom-file">
+                                    <input type="file" class="custom-file-input" id="exampleInputFile" name="file">
+                                    <label class="custom-file-label" for="exampleInputFile">Dosya Seçin</label>
+                                </div>
+                            </div>
+                            @Html.ValidationMessage("file")
+                        </div> *@
+
+                    </form>
+
+                </div>
+                <div class="modal-footer justify-content-between">
+                    <button type="button" class="btn btn-danger" data-dismiss="modal">İptal</button>
+                    <button type="button" id="save-btn" class="btn btn-success">Kaydet</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+
+
+    <script>
+        $(document).ready(function () {
+            $('#modal-default').modal({
+                backdrop: 'static',
+                keyboard: false
+            });
+            $('#modal-default').modal('show');
+        });
+
+        $('#save-btn').click(function () {
+            var id = $('#Id').val(); // Formdaki Id alanının değerini al
+
+            // Eğer Id değeri varsa, güncelleme işlemi yapılacak
+            var actionUrl = id ? 'http://localhost:60805/api/ListeVeris/' + id : 'http://localhost:60805/api/ListeVeris';
+
+             var formData = {
+        // FormData'nın içeriğini buraya ekle
+        // Örnek olarak:
+        TypeId: $('#TypeId').val(),
+        UstId: $('#UstId').val(),
+        Deger: $('#Deger').val(),
+        Derinlik: $('#Derinlik').val(),
+        EkId: $('#EkId').val(),
+        EkDeger: $('#EkDeger').val(),
+        Aciklama: $('#Aciklama').val(),
+        // Diğer alanlar...
+    };
+
+            $.ajax({
+                url: actionUrl,
+                type: 'POST',
+                data: JSON.stringify(formData),// FormData nesnesini doğrudan gönder
+             
+                contentType: 'application/json', // İçerik türünü belirtme, FormData için otomatik olarak uygun türü seçecektir
+                success: function (response) {
+                    console.log("Başarılı!");
+                    // Başarılı işlem durumunda yapılacaklar
+                },
+                error: function (xhr, status, error) {
+                    console.error(error);
+                    // Hata durumunda yapılacaklar
+                }
+            });
+        });
+    </script>
+</body>
+</html>

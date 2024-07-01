@@ -1,0 +1,188 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdn3.devexpress.com/jslib/22.1.4/css/dx.light.css">
+</head>
+<body>
+    <!-- Dashboard Headline -->
+    @* <div class="dashboard-headline">
+        <h3>Liste Veri</h3>
+        <span></span>
+        <!-- Breadcrumbs -->
+        <nav id="breadcrumbs" class="dark">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li>Dashboard</li>
+            </ul>
+        </nav>
+    </div> *@
+    <!-- Row -->
+    <!-- /.row -->
+    
+        <div class="row">
+            <div class="col-12">
+            <div style="margin:30px;">
+                <div class="card">
+                    @*  <div class="card-header">
+                    <h3 class="card-title">Liste Veri</h3>
+
+                    <div class="card-tools">
+                    <div class="input-group input-group-sm" style="width: 150px;">
+                    <input type="text" name="table_search" class="form-control float-right" placeholder="Search">
+
+                    <div class="input-group-append">
+                    <button type="submit" class="btn btn-default">
+                    <i class="fas fa-search"></i>
+                    </button>
+                    </div>
+                    </div>
+                    </div>
+                    </div> *@
+                    <!-- /.card-header -->
+                    <div class="card-body table-responsive p-0" style="height: 300px;">
+                        <div id="gridContainer"></div>
+                    </div>
+                    <!-- /.card-body -->
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+       @*   <div class="row">
+            <div class="col-xl-12">
+                <!-- Dashboard Box -->
+                <div class="dashboard-box main-box-in-row">
+                    <div class="content">
+                    </div>
+                </div>
+                <!-- Dashboard Box / End -->
+            </div>
+        </div> *@
+    </div> 
+    <!-- Row / End -->
+
+
+    <script>
+        $(document).ready(function () {
+            var employees = []; // Ensure you have the employees data initialized
+
+            $('#gridContainer').dxDataGrid({
+                dataSource: employees,
+                keyExpr: 'ID',
+                showBorders: true,
+                headerFilter: {
+                    visible: true
+                },
+                searchPanel: {
+                    visible: true,
+                    width: 240,
+                    placeholder: "Ara..."
+                },
+                editing: {
+                    mode: 'popup',
+                    allowUpdating: true,
+                    allowAdding: true,
+                    allowDeleting: true,
+                    popup: {
+                        title: 'Employee Info',
+                        showTitle: true,
+                        width: 700,
+                        height: 525,
+                    },
+                    form: {
+                        items: [{
+                            itemType: 'group',
+                            colCount: 2,
+                            colSpan: 2,
+                            items: ['FirstName', 'LastName', 'Prefix', 'BirthDate', 'Position', 'HireDate', {
+                                dataField: 'Notes',
+                                editorType: 'dxTextArea',
+                                colSpan: 2,
+                                editorOptions: {
+                                    height: 100,
+                                },
+                            }],
+                        }, {
+                            itemType: 'group',
+                            colCount: 2,
+                            colSpan: 2,
+                            caption: 'Home Address',
+                            items: ['StateID', 'Address'],
+                        }],
+                    },
+                },
+                columns: [
+                    {
+                        dataField: 'FirstName',
+                        caption: 'Tip',
+                    },
+                    {
+                        dataField: 'UstId',
+                        caption: 'Üst Veri',
+                    },
+                    {
+                        dataField: 'Derinlik',
+                        caption: 'Derinlik',
+                    },
+                    {
+                        dataField: 'Deger',
+                        caption: 'Veri',
+                    },
+                    {
+                        dataField: 'EkId',
+                        caption: 'Ek Id',
+                    },
+                    {
+                        dataField: 'EkDeger',
+                        caption: 'Ek Değer',
+                    },
+                    {
+                        type: 'buttons',
+                        width: 100,
+                        buttons: [{
+                            hint: 'Edit',
+                            icon: 'edit',
+                            cssClass: 'icon-info'
+                        }, {
+                            hint: 'Delete',
+                            icon: 'trash',
+                            cssClass: 'icon-danger'
+                        }],
+                        alignment: 'right',
+                    },
+                ],
+                toolbar: {
+                    items: [
+                        {
+                            location: 'before',
+                            template: function () {
+                                return '<div class="headline"><h3><i class="icon-feather-bar-chart-2"></i>Liste Veriler</h3></div>';
+                            }
+                        },
+                        {
+                            location: 'after',
+                            widget: 'dxButton',
+                            options: {
+                                icon: 'add',
+                                text: 'Ekle',
+                                onClick: function (e) {
+                                    openEditFormCustomUrl('/Admin/ListeVeri/AddOrUpdate');
+                                    // Ekleme butonuna tıklandığında yapılacak işlemler
+                                }
+                            }
+                        }
+                    ]
+                },
+                onContentReady: function (e) {
+                    if (!e.component.__ready) {
+                        e.component.__ready = true;
+                    }
+                }
+            });
+        });
+    </script>
+
+</body>
+</html>

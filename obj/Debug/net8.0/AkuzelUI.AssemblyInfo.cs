@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AkuzelUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84c4c7f855df3a70cfdc25b0985f68eb13fee87f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d727002f8a4f1e1804c8dfdf15791e5ddde9010")]
 [assembly: System.Reflection.AssemblyProductAttribute("AkuzelUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AkuzelUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

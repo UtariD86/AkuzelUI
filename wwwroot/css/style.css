@@ -17005,3 +17005,18 @@ ul.dashboard-box-list > li:hover {
 	.padding-left-90 { padding-left: 90px !important; }
 	.padding-left-95 { padding-left: 95px !important; }
 	.padding-left-100 { padding-left: 100px !important; }
+
+	/*button kısım zurafworks tarafından düzenlenmiştir. www.zurafworks.com*/
+
+.form-setting {
+	border: #a3a3a3 1px solid !important;
+	padding: unset;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: black;
+}
+	
+.float-setting{
+	font-weight:800;
+	font-size:large;
+}

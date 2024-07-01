@@ -1,0 +1,205 @@
+﻿@using AkuzelUI.Areas.AdminOld.Models
+@model ListeVeriEditViewModel;
+
+@{
+    Layout = null;
+}
+<!-- Gritter.js script -->
+<script src="https://cdn.jsdelivr.net/npm/gritter@1.7.4/js/jquery.gritter.min.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/gritter@1.7.4/css/jquery.gritter.min.css" rel="stylesheet">
+<!--=================================
+  Modal login -->
+<!-- Make an Offer Popup
+================================================== -->
+@* <div class="mfp-bg my-mfp-zoom-in mfp-ready"></div>
+<div class="mfp-wrap mfp-close-btn-in mfp-auto-cursor my-mfp-zoom-in mfp-ready" tabindex="-1" style="top: 2460px; position: absolute; height: 919px;">
+	<div class="mfp-container mfp-inline-holder">
+	</div>
+</div> *@
+<style>
+
+
+    .overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.5); /* Siyah yarı şeffaf */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+    }
+
+    /* .content {
+                background-color: white;
+                padding: 20px;
+                border-radius: 10px;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            } */
+</style>
+
+<div id="editModal" class="overlay">
+    @* <div class="content"> *@
+
+    <div class="mfp-content">
+        <div id="small-dialog" class="zoom-anim-dialog dialog-with-tabs">
+
+            <!--Tabs -->
+            <div class="sign-in-form">
+
+                <ul class="popup-tabs-nav" style="pointer-events: none;">
+                    <li class="active"><a href="#tab">Liste Veri</a></li>
+                </ul>
+
+                <div class="popup-tabs-container">
+
+                    <!-- Tab -->
+                    <div class="popup-tab-content" id="tab" style="">
+
+                        <!-- Welcome Text -->
+                        @* <div class="welcome-text">
+                        <h3>Discuss your project with David</h3>
+                        </div> *@
+
+                        <!-- Form -->
+                        <form method="post">
+
+                            <div class="input-with-icon-left">
+
+                                <label class="float-setting text-dark fw-bold" for="floatingInput">Veri Tipi</label>
+                                    @Html.DropDownListFor(
+                                             m => m.TypeList,
+                                             new SelectList(Model.TypeList, "Value", "Text", Model.TypeId),
+                                             "Veri Tipini Seçiniz",
+                                         new { @class = " with-border form-control form-setting" }
+                                             )
+                                    @Html.ValidationMessageFor(m => m.TypeId)
+                                
+                            </div>
+
+                            <hr />
+
+                            <div class="input-with-icon-left">
+
+                                <label class="float-setting text-dark fw-bold" for="floatingInput">Üst Veri</label>
+                                @Html.DropDownListFor(
+                                         m => m.TypeList,
+                                         new SelectList(Model.TypeList, "Value", "Text", Model.UstId),
+                                         "Önce Veri Tipini Seçiniz",
+                                         new { @class = " with-border form-control form-setting", @disabled = "true"}
+                                         )
+                                @Html.ValidationMessageFor(m => m.TypeId)
+
+                            </div>
+
+
+                            <hr />
+
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <div class="input-group">
+                                        <span class="input-group-btn">
+                                            <button type="button" class="btn btn-default btn-number" disabled="disabled" data-type="minus" data-field="quant[1]">
+                                                <span class="glyphicon glyphicon-minus">-</span>
+                                            </button>
+                                        </span>
+                                        <input type="text" name="quant[1]" class="form-control input-number" value="0" min="0" max="300">
+                                        <span class="input-group-btn">
+                                            <button type="button" class="btn btn-default btn-number" data-type="plus" data-field="quant[1]">
+                                                <span class="glyphicon glyphicon-plus">+</span>
+                                            </button>
+                                        </span>
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="input-with-icon-left">
+                                <i class="icon-material-outline-account-circle"></i>
+                                <input type="text" class="input-text with-border" name="name" id="name" placeholder="First and Last Name">
+                            </div>
+
+                            <div class="input-with-icon-left">
+                                <i class="icon-material-baseline-mail-outline"></i>
+                                <input type="text" class="input-text with-border" name="emailaddress" id="emailaddress" placeholder="Email Address">
+                            </div>
+
+                            <textarea name="textarea" cols="10" placeholder="Message" class="with-border"></textarea>
+
+                            <div class="uploadButton margin-top-25">
+                                <input class="uploadButton-input" type="file" accept="image/*, application/pdf" id="upload" multiple="">
+                                <label class="uploadButton-button ripple-effect" for="upload">Add Attachments</label>
+                                <span class="uploadButton-file-name">Allowed file types: zip, pdf, png, jpg <br> Max. files size: 50 MB.</span>
+                            </div>
+
+                        </form>
+
+                        <!-- Button -->
+                        <button class="button margin-top-35 full-width button-sliding-icon ripple-effect" type="submit">Make an Offer <i class="icon-material-outline-arrow-right-alt"></i></button>
+
+                    </div>
+                    <!-- Login -->
+                    <div class="popup-tab-content" id="loginn" style="display: none;">
+
+                        <!-- Welcome Text -->
+                        <div class="welcome-text">
+                            <h3>Discuss Your Project With Tom</h3>
+                        </div>
+
+                        <!-- Form -->
+                        <form method="post" id="make-an-offer-form">
+
+                            sadfasdf
+                            <select class="selectpicker with-border" data-size="7" title="Select Job Type">
+                                <option>Full Time</option>
+                                <option>Freelance</option>
+                                <option>Part Time</option>
+                                <option>Internship</option>
+                                <option>Temporary</option>
+                            </select>
+
+                            <div class="input-with-icon-left">
+                                aaaa
+                                <i class="icon-material-outline-account-circle"></i>
+                                <select class="selectpicker with-border" data-size="7" title="Select Job Type">
+                                    <option>Full Time</option>
+                                    <option>Freelance</option>
+                                    <option>Part Time</option>
+                                    <option>Internship</option>
+                                    <option>Temporary</option>
+                                </select>
+                            </div>sdafsadf
+
+                            <div class="input-with-icon-left">
+                                <input type="text" class="input-text with-border" name="name2" id="name2" placeholder="First and Last Name" required="">
+                            </div>
+
+                            <div class="input-with-icon-left">
+                                <i class="icon-material-baseline-mail-outline"></i>
+                                <input type="text" class="input-text with-border" name="emailaddress2" id="emailaddress2" placeholder="Email Address" required="">
+                            </div>
+
+                            <textarea name="textarea" cols="10" placeholder="Message" class="with-border"></textarea>
+
+                            <div class="uploadButton margin-top-25">
+                                <input class="uploadButton-input" type="file" accept="image/*, application/pdf" id="upload-cv" multiple="">
+                                <label class="uploadButton-button" for="upload-cv">Add Attachments</label>
+                                <span class="uploadButton-file-name">Allowed file types: zip, pdf, png, jpg <br> Max. files size: 50 MB.</span>
+                            </div>
+
+                        </form>
+
+                        <!-- Button -->
+                        <button class="button full-width button-sliding-icon ripple-effect" type="submit" form="make-an-offer-form">Kaydet <i class="icon-material-outline-arrow-right-alt"></i></button>
+
+                    </div>
+
+                </div>
+            </div>
+            <button title="Close (Esc)" type="button" class="mfp-close" onclick="closeModal()"></button>
+        </div>
+    </div>
+    @* </div> *@
+</div>

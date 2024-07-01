@@ -1,0 +1,1202 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!--Devextreme-->
+    <style>
+        .dx-datagrid .dx-data-row > td.bullet {
+            padding-top: 0;
+            padding-bottom: 0;
+        }
+
+        .icon-info {
+            margin-right: 10px !important;
+            font-size: 25px !important;
+            color: #65a2e1 !important;
+        }
+
+        .icon-danger {
+            margin-right: 10px !important;
+            font-size: 25px !important;
+            color: #e16069 !important;
+        }
+
+        .add-button {
+            background-color: #2a41e8 !important;
+            color: aliceblue;
+            border-radius: 1px;
+        }
+
+        .dx-widget {
+            font-size: 20px !important;
+            border-radius: 15px !important;
+        }
+
+        .dx-button {
+            border-radius: 15px !important;
+            margin-right: 5px !important;
+            /* float:right !important; */
+        }
+
+        .dx-toolbar .dx-toolbar-after {
+            padding-right: 5px;
+        }
+
+        .dx-datagrid-header-panel {
+            padding: 10px;
+        }
+
+        .dx-datagrid-borders > .dx-datagrid-headers {
+            border-top-left-radius: 15px;
+            border-top-right-radius: 15px;
+        }
+
+        .dx-datagrid-borders > .dx-datagrid-total-footer,
+        .dx-datagrid-borders > .dx-datagrid-rowsview {
+            border-bottom-left-radius: 15px;
+            border-bottom-right-radius: 15px;
+        }
+    </style>
+
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link href="~/css/style.css" rel="stylesheet" />
+
+    <link href="~/css/colors/blue.css" rel="stylesheet" />
+    <!-- jQuery -->
+    <script src="~/devextreme/js/jquery.min.js"></script>
+    <script src="~/devextreme/js/jquery.easing.min.js"></script>
+
+    <!-- DevExtreme CSS -->
+    <link rel="stylesheet" href="https://cdn3.devexpress.com/jslib/21.2.5/css/dx.common.css" />
+    <link rel="stylesheet" href="https://cdn3.devexpress.com/jslib/21.2.5/css/dx.softblue.css" />
+    @* <link href="~/devextreme/themes/dx.fluent.akuzel-light.css" rel="stylesheet" /> *@
+
+    <!-- DevExtreme JavaScript -->
+    <script src="https://cdn3.devexpress.com/jslib/21.2.5/js/dx.all.js"></script>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/lib/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="~/js/site.js"></script>
+
+
+    <!--/Devextreme-->
+
+    <script>
+        const employees = [{
+            ID: 1,
+            FirstName: 'John',
+            LastName: 'Heart',
+            Prefix: 'Mr.',
+            Position: 'CEO',
+            BirthDate: '1964/03/16',
+            HireDate: '1995/01/15',
+            Notes: 'John has been in the Audio/Video industry since 1990. He has led DevAv as its CEO since 2003.\r\n\r\nWhen not working hard as the CEO, John loves to golf and bowl. He once bowled a perfect game of 300.',
+            Address: '351 S Hill St.',
+            StateID: 5,
+        }, {
+            ID: 2,
+            FirstName: 'Olivia',
+            LastName: 'Peyton',
+            Prefix: 'Mrs.',
+            Position: 'Sales Assistant',
+            BirthDate: '1981/06/03',
+            HireDate: '2012/05/14',
+            Notes: 'Olivia loves to sell. She has been selling DevAV products since 2012. \r\n\r\nOlivia was homecoming queen in high school. She is expecting her first child in 6 months. Good Luck Olivia.',
+            Address: '807 W Paseo Del Mar',
+            StateID: 5,
+        }, {
+            ID: 3,
+            FirstName: 'Robert',
+            LastName: 'Reagan',
+            Prefix: 'Mr.',
+            Position: 'CMO',
+            BirthDate: '1974/09/07',
+            HireDate: '2002/11/08',
+            Notes: 'Robert was recently voted the CMO of the year by CMO Magazine. He is a proud member of the DevAV Management Team.\r\n\r\nRobert is a championship BBQ chef, so when you get the chance ask him for his secret recipe.',
+            Address: '4 Westmoreland Pl.',
+            StateID: 4,
+        }, {
+            ID: 4,
+            FirstName: 'Greta',
+            LastName: 'Sims',
+            Prefix: 'Ms.',
+            Position: 'HR Manager',
+            BirthDate: '1977/11/22',
+            HireDate: '1998/04/23',
+            Notes: "Greta has been DevAV's HR Manager since 2003. She joined DevAV from Sonee Corp.\r\n\r\nGreta is currently training for the NYC marathon. Her best marathon time is 4 hours. Go Greta.",
+            Address: '1700 S Grandview Dr.',
+            StateID: 11,
+        }, {
+            ID: 5,
+            FirstName: 'Brett',
+            LastName: 'Wade',
+            Prefix: 'Mr.',
+            Position: 'IT Manager',
+            BirthDate: '1968/12/01',
+            HireDate: '2009/03/06',
+            Notes: 'Brett came to DevAv from Microsoft and has led our IT department since 2012.\r\n\r\nWhen he is not working hard for DevAV, he coaches Little League (he was a high school pitcher).',
+            Address: '1120 Old Mill Rd.',
+            StateID: 13,
+        }, {
+            ID: 6,
+            FirstName: 'Sandra',
+            LastName: 'Johnson',
+            Prefix: 'Mrs.',
+            Position: 'Controller',
+            BirthDate: '1974/11/15',
+            HireDate: '2005/05/11',
+            Notes: "Sandra is a CPA and has been our controller since 2008. She loves to interact with staff so if you've not met her, be certain to say hi.\r\n\r\nSandra has 2 daughters both of whom are accomplished gymnasts.",
+            Address: '4600 N Virginia Rd.',
+            StateID: 44,
+        }, {
+            ID: 7,
+            FirstName: 'Kevin',
+            LastName: 'Carter',
+            Prefix: 'Mr.',
+            Position: 'Shipping Manager',
+            BirthDate: '1978/01/09',
+            HireDate: '2009/08/11',
+            Notes: 'Kevin is our hard-working shipping manager and has been helping that department work like clockwork for 18 months.\r\n\r\nWhen not in the office, he is usually on the basketball court playing pick-up games.',
+            Address: '424 N Main St.',
+            StateID: 5,
+        }, {
+            ID: 8,
+            FirstName: 'Cynthia',
+            LastName: 'Stanwick',
+            Prefix: 'Ms.',
+            Position: 'HR Assistant',
+            BirthDate: '1985/06/05',
+            HireDate: '2008/03/24',
+            Notes: 'Cindy joined us in 2008 and has been in the HR department for 2 years. \r\n\r\nShe was recently awarded employee of the month. Way to go Cindy!',
+            Address: '2211 Bonita Dr.',
+            StateID: 4,
+        }, {
+            ID: 9,
+            FirstName: 'Kent',
+            LastName: 'Samuelson',
+            Prefix: 'Dr.',
+            Position: 'Ombudsman',
+            BirthDate: '1972/09/11',
+            HireDate: '2009/04/22',
+            Notes: 'As our ombudsman, Kent is on the front-lines solving customer problems and helping our partners address issues out in the field.    He is a classically trained musician and is a member of the Chamber Orchestra.',
+            Address: '12100 Mora Dr',
+            StateID: 26,
+        }, {
+            ID: 10,
+            FirstName: 'Taylor',
+            LastName: 'Riley',
+            Prefix: 'Mr.',
+            Position: 'Network Admin',
+            BirthDate: '1982/08/14',
+            HireDate: '2012/04/14',
+            Notes: "If you are like the rest of us at DevAV, then you've probably reached out for help from Taylor. He does a great job as a member of our IT department.",
+            Address: '7776 Torreyson Dr',
+            StateID: 5,
+        }, {
+            ID: 11,
+            FirstName: 'Sam',
+            LastName: 'Hill',
+            Prefix: 'Mr.',
+            Position: 'Sales Assistant',
+            BirthDate: '1984/02/17',
+            HireDate: '2012/02/01',
+            Notes: 'Sammy is proud to be a member of the DevAV team. He joined the team in 2012 and has been in the sales department from the beginning.\r\n\r\nHe has just picked up golf so you can find him on the links every weekend.',
+            Address: '645 Prospect Crescent',
+            StateID: 11,
+        }, {
+            ID: 12,
+            FirstName: 'Kelly',
+            LastName: 'Rodriguez',
+            Prefix: 'Ms.',
+            Position: 'Support Assistant',
+            BirthDate: '1988/05/11',
+            HireDate: '2012/10/13',
+            Notes: "Kelly loves people and that's why she joined DevAV's support department. One of the funniest people in the company, she does stand-up on the weekends at the Laugh Factory.",
+            Address: '1601 W Mountain St.',
+            StateID: 5,
+        }, {
+            ID: 13,
+            FirstName: 'Natalie',
+            LastName: 'Maguirre',
+            Prefix: 'Mrs.',
+            Position: 'Trainer',
+            BirthDate: '1977/10/07',
+            HireDate: '2008/06/19',
+            Notes: 'Natalie travels the US and teaches our partners how to explain the benefits of our products to customers.\r\n\r\nShe is a proud wife and mom and volunteers her time at the elementary school.',
+            Address: '6400 E Bixby Hill Rd',
+            StateID: 29,
+        }, {
+            ID: 14,
+            FirstName: 'Walter',
+            LastName: 'Hobbs',
+            Prefix: 'Mr.',
+            Position: 'Programmer',
+            BirthDate: '1984/12/24',
+            HireDate: '2011/02/17',
+            Notes: "Walter has been developing apps and websites for DevAV since 2011. His passion is software and if you ever walk by his desk, you'll know why.\r\n\r\nWally once worked 72 hours straight - writing code and fixing bugs.",
+            Address: '10385 Shadow Oak Dr',
+            StateID: 13,
+        }];
+
+        const states = [{
+            ID: 1,
+            Name: 'Alabama',
+        }, {
+            ID: 2,
+            Name: 'Alaska',
+        }, {
+            ID: 3,
+            Name: 'Arizona',
+        }, {
+            ID: 4,
+            Name: 'Arkansas',
+        }, {
+            ID: 5,
+            Name: 'California',
+        }, {
+            ID: 6,
+            Name: 'Colorado',
+        }, {
+            ID: 7,
+            Name: 'Connecticut',
+        }, {
+            ID: 8,
+            Name: 'Delaware',
+        }, {
+            ID: 9,
+            Name: 'District of Columbia',
+        }, {
+            ID: 10,
+            Name: 'Florida',
+        }, {
+            ID: 11,
+            Name: 'Georgia',
+        }, {
+            ID: 12,
+            Name: 'Hawaii',
+        }, {
+            ID: 13,
+            Name: 'Idaho',
+        }, {
+            ID: 14,
+            Name: 'Illinois',
+        }, {
+            ID: 15,
+            Name: 'Indiana',
+        }, {
+            ID: 16,
+            Name: 'Iowa',
+        }, {
+            ID: 17,
+            Name: 'Kansas',
+        }, {
+            ID: 18,
+            Name: 'Kentucky',
+        }, {
+            ID: 19,
+            Name: 'Louisiana',
+        }, {
+            ID: 20,
+            Name: 'Maine',
+        }, {
+            ID: 21,
+            Name: 'Maryland',
+        }, {
+            ID: 22,
+            Name: 'Massachusetts',
+        }, {
+            ID: 23,
+            Name: 'Michigan',
+        }, {
+            ID: 24,
+            Name: 'Minnesota',
+        }, {
+            ID: 25,
+            Name: 'Mississippi',
+        }, {
+            ID: 26,
+            Name: 'Missouri',
+        }, {
+            ID: 27,
+            Name: 'Montana',
+        }, {
+            ID: 28,
+            Name: 'Nebraska',
+        }, {
+            ID: 29,
+            Name: 'Nevada',
+        }, {
+            ID: 30,
+            Name: 'New Hampshire',
+        }, {
+            ID: 31,
+            Name: 'New Jersey',
+        }, {
+            ID: 32,
+            Name: 'New Mexico',
+        }, {
+            ID: 33,
+            Name: 'New York',
+        }, {
+            ID: 34,
+            Name: 'North Carolina',
+        }, {
+            ID: 35,
+            Name: 'Ohio',
+        }, {
+            ID: 36,
+            Name: 'Oklahoma',
+        }, {
+            ID: 37,
+            Name: 'Oregon',
+        }, {
+            ID: 38,
+            Name: 'Pennsylvania',
+        }, {
+            ID: 39,
+            Name: 'Rhode Island',
+        }, {
+            ID: 40,
+            Name: 'South Carolina',
+        }, {
+            ID: 41,
+            Name: 'South Dakota',
+        }, {
+            ID: 42,
+            Name: 'Tennessee',
+        }, {
+            ID: 43,
+            Name: 'Texas',
+        }, {
+            ID: 44,
+            Name: 'Utah',
+        }, {
+            ID: 45,
+            Name: 'Vermont',
+        }, {
+            ID: 46,
+            Name: 'Virginia',
+        }, {
+            ID: 47,
+            Name: 'Washington',
+        }, {
+            ID: 48,
+            Name: 'West Virginia',
+        }, {
+            ID: 49,
+            Name: 'Wisconsin',
+        }, {
+            ID: 50,
+            Name: 'Wyoming',
+        }, {
+            ID: 51,
+            Name: 'North Dakota',
+        }];
+
+
+        let apiUrl = "";
+    </script>
+
+
+
+    <script type="text/javascript">
+
+        function getViewComponent(url, target) {
+            if (target == null || target == undefined) {
+                target = $("#viewComponentContainer");
+            }
+            debugger;
+            $.get(url, function (data) {
+                target.html(data);
+            });
+        }
+
+    </script>
+
+
+    <script type="text/javascript">
+
+
+        function setGridWidth(targetGrid) {
+            var widgetContainer = targetGrid.closest('.widget-content');
+            var containerWidth = widgetContainer.width();
+            targetGrid.jqGrid('setGridWidth', containerWidth);
+        }
+
+
+
+        $(document).on('click', '#loginbtn', function () {
+
+            $.ajax({
+                url: '/User/LoginOrRegisterPartial',
+                type: 'GET',
+                // data: { id: item.Id },
+                success: function (result) {
+                    $('#loginOrRegisterPartialZone').html(result);
+                    $('#loginModal').modal({
+                        backdrop: 'static',
+                        keyboard: false
+                    }).modal('show');;
+
+                },
+                error: function () {
+                    console.error('Error loading partial view');
+                }
+            });
+
+
+        });
+
+
+
+        $(document).on('click', '#logoutBtn', function () {
+            // var row = $(this).closest('tr.jqgrow');
+            // var rowId = row.attr('id');
+            debugger;
+
+            // $("#partialZoneContent").load("/User/Login");
+            $.ajax({
+                url: '/User/Logout',
+                type: 'POST',
+                // data: { id: item.Id },
+                success: function (data) {
+                    window.alert(data.message);
+                    window.location.reload();
+                },
+                error: function () {
+                    // console.error('Error loading partial view');
+                }
+            });
+
+
+        });
+        $(document).ready(function () {
+            $(".form-select").focus(function () {
+                debugger;
+                $(this).addClass("dropdown-setting");
+            });
+
+            $(".form-select").blur(function () {
+                $(this).removeClass("dropdown-setting");
+            });
+            // Initial toggle on page load
+            toggleSidebarVisibility();
+            openEditForm = function (controllerUrl, id, targetGrid) {
+                debugger;
+                // setOperationGrid(targetGrid)
+
+                $.ajax({
+                    url: controllerUrl + '/AddOrUpdate',
+                    type: 'GET',
+                    data: { id: id },
+                    success: function (result) {
+                        $('#partialEditContent').html(result);
+                        $('#editModal').modal({
+                            backdrop: 'static',
+                            keyboard: false
+                        }).modal('show');;
+                    },
+                    error: function (e) {
+                        debugger;
+                        // $.gritter.add({
+                        //     title: 'Hata',
+                        //     text: result.message,
+                        //     class_name: 'gritter-error',
+                        //     sticky: false,
+                        //     time: 5000
+                        // });
+                    }
+                });
+            };
+
+            openEditFormCustomUrl = function (controllerUrl) {
+                debugger;
+                $.ajax({
+                    url: controllerUrl,
+                    type: 'GET',
+                    // data: { id: id },
+                    success: function (result) {
+                        $('#partialEditContent').html(result);
+                        $('#editModal').modal({
+                            backdrop: 'static',
+                            keyboard: false
+                        }).modal('show');;
+                    },
+                    error: function (e) {
+                        debugger;
+                        // $.gritter.add({
+                        //     title: 'Hata',
+                        //     text: result.message,
+                        //     class_name: 'gritter-error',
+                        //     sticky: false,
+                        //     time: 5000
+                        // });
+                    }
+                });
+            };
+
+            deleteRow = function (controllerUrl, id, targetGrid) {
+
+                $.ajax({
+                    url: controllerUrl + '/Delete',
+                    type: 'GET',
+                    data: { id: id },
+                    success: function (result) {
+                        reloadGrid(targetGrid);
+                        $.gritter.add({
+                            title: 'Başarılı',
+                            text: result.message,
+                            class_name: 'gritter-success',
+                            sticky: false,
+                            time: 5000
+                        });
+                    },
+                    error: function () {
+                        $.gritter.add({
+                            title: 'Hata',
+                            text: result.message,
+                            class_name: 'gritter-error',
+                            sticky: false,
+                            time: 5000
+                        });
+                    }
+                });
+            };
+
+
+            function toggleSidebarVisibility() {
+                var windowWidth = $(window).width();
+                if (windowWidth < 760) {
+                    $("#sidebarWeb").hide();
+                    $("#sidebarMobile").show();
+                } else {
+                    $("#sidebarWeb").show();
+                    $("#sidebarMobile").hide();
+                }
+            }
+
+
+            $(window).on("resize", function () {
+                toggleSidebarVisibility();
+            });
+
+            $(document).ready(function () {
+
+                function switchTab(tabId, buttonId) {
+                    $('.tab-pane').hide();
+
+                    $('[data-bs-toggle="tab"]').removeClass('active');
+
+                    $(tabId).show();
+
+                    $(buttonId).addClass('active');
+                }
+
+                switchTab($('.tab-pane.show.active'));
+
+                $('[data-bs-toggle="tab"]').on('click', function (e) {
+                    e.preventDefault();
+
+                    var tabId = $(this).attr('href');
+                    var buttonId = $(this).attr('id');
+
+                    switchTab(tabId, '#' + buttonId);
+                });
+
+
+
+                // function submitForm(apiUrl, formId) {
+                //     // Serialize the form data
+                //     var formData = $(formI).serialize();
+
+                //     var grid = getOperationGrid();
+                //     $.ajax({
+                //         url: "/Admin" + $('#editForma').attr('action'),
+                //         type: 'POST',
+                //         data: formData,
+                //         success: function (result) {
+                //             $.gritter.add({
+                //                 title: 'Başarılı',
+                //                 text: result.message,
+                //                 class_name: 'gritter-success',
+                //                 sticky: false,
+                //                 time: 5000
+                //             });
+                //             reloadGrid(grid);
+                //             closeModal();
+                //         },
+                //         error: function (result) {
+                //             $.gritter.add({
+                //                 title: 'Hata',
+                //                 text: result.message,
+                //                 class_name: 'gritter-error',
+                //                 sticky: false,
+                //                 time: 5000
+                //             });
+                //         }
+                //     });
+                // }
+
+            });
+
+
+        });
+
+
+    </script>
+</head>
+
+<div id="partialEditContent" ></div>
+
+<body class="gray">
+
+    <!-- Wrapper -->
+    <div id="wrapper">
+
+        <!-- Header Container
+        ================================================== -->
+        <header id="header-container" class="fullwidth dashboard-header not-sticky">
+
+            <!-- Header -->
+            <div id="header">
+                <div class="container">
+
+                    <!-- Left Side Content -->
+                    <div class="left-side">
+
+                        <!-- Logo -->
+                        <div id="logo">
+                            <a href="index.html"><img src="~/images/logo.png" alt=""></a>
+                        </div>
+
+                        <!-- Main Navigation -->
+                        <nav id="navigation">
+                            <ul id="responsive">
+
+                                <li>
+                                    <a href="#">Home</a>
+                                    <ul class="dropdown-nav">
+                                        <li><a href="index.html">Home 1</a></li>
+                                        <li><a href="index-2.html">Home 2</a></li>
+                                        <li><a href="index-3.html">Home 3</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a href="#">Find Work</a>
+                                    <ul class="dropdown-nav">
+                                        <li>
+                                            <a href="#">Browse Jobs</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="jobs-list-layout-full-page-map.html">Full Page List + Map</a></li>
+                                                <li><a href="jobs-grid-layout-full-page-map.html">Full Page Grid + Map</a></li>
+                                                <li><a href="jobs-grid-layout-full-page.html">Full Page Grid</a></li>
+                                                <li><a href="jobs-list-layout-1.html">List Layout 1</a></li>
+                                                <li><a href="jobs-list-layout-2.html">List Layout 2</a></li>
+                                                <li><a href="jobs-grid-layout.html">Grid Layout</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="#">Browse Tasks</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="tasks-list-layout-1.html">List Layout 1</a></li>
+                                                <li><a href="tasks-list-layout-2.html">List Layout 2</a></li>
+                                                <li><a href="tasks-grid-layout.html">Grid Layout</a></li>
+                                                <li><a href="tasks-grid-layout-full-page.html">Full Page Grid</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="browse-companies.html">Browse Companies</a></li>
+                                        <li><a href="single-job-page.html">Job Page</a></li>
+                                        <li><a href="single-task-page.html">Task Page</a></li>
+                                        <li><a href="single-company-profile.html">Company Profile</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a href="#">For Employers</a>
+                                    <ul class="dropdown-nav">
+                                        <li>
+                                            <a href="#">Find a Freelancer</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="freelancers-grid-layout-full-page.html">Full Page Grid</a></li>
+                                                <li><a href="freelancers-grid-layout.html">Grid Layout</a></li>
+                                                <li><a href="freelancers-list-layout-1.html">List Layout 1</a></li>
+                                                <li><a href="freelancers-list-layout-2.html">List Layout 2</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="single-freelancer-profile.html">Freelancer Profile</a></li>
+                                        <li><a href="dashboard-post-a-job.html">Post a Job</a></li>
+                                        <li><a href="dashboard-post-a-task.html">Post a Task</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a href="#" class="current">Dashboard</a>
+                                    <ul class="dropdown-nav">
+                                        <li><a href="dashboard.html">Dashboard</a></li>
+                                        <li><a href="dashboard-messages.html">Messages</a></li>
+                                        <li><a href="dashboard-bookmarks.html">Bookmarks</a></li>
+                                        <li><a href="dashboard-reviews.html">Reviews</a></li>
+                                        <li>
+                                            <a href="dashboard-manage-jobs.html">Jobs</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="dashboard-manage-jobs.html">Manage Jobs</a></li>
+                                                <li><a href="dashboard-manage-candidates.html">Manage Candidates</a></li>
+                                                <li><a href="dashboard-post-a-job.html">Post a Job</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a href="dashboard-manage-tasks.html">Tasks</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="dashboard-manage-tasks.html">Manage Tasks</a></li>
+                                                <li><a href="dashboard-manage-bidders.html">Manage Bidders</a></li>
+                                                <li><a href="dashboard-my-active-bids.html">My Active Bids</a></li>
+                                                <li><a href="dashboard-post-a-task.html">Post a Task</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="dashboard-settings.html">Settings</a></li>
+                                    </ul>
+                                </li>
+
+                                <li>
+                                    <a href="#">Pages</a>
+                                    <ul class="dropdown-nav">
+                                        <li>
+                                            <a href="#">Open Street Map</a>
+                                            <ul class="dropdown-nav">
+                                                <li><a href="jobs-list-layout-full-page-map-OpenStreetMap.html">Full Page List + Map</a></li>
+                                                <li><a href="jobs-grid-layout-full-page-map-OpenStreetMap.html">Full Page Grid + Map</a></li>
+                                                <li><a href="single-job-page-OpenStreetMap.html">Job Page</a></li>
+                                                <li><a href="single-company-profile-OpenStreetMap.html">Company Profile</a></li>
+                                                <li><a href="pages-contact-OpenStreetMap.html">Contact</a></li>
+                                                <li><a href="jobs-list-layout-1-OpenStreetMap.html">Location Autocomplete</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="pages-blog.html">Blog</a></li>
+                                        <li><a href="pages-pricing-plans.html">Pricing Plans</a></li>
+                                        <li><a href="pages-checkout-page.html">Checkout Page</a></li>
+                                        <li><a href="pages-invoice-template.html">Invoice Template</a></li>
+                                        <li><a href="pages-user-interface-elements.html">User Interface Elements</a></li>
+                                        <li><a href="pages-icons-cheatsheet.html">Icons Cheatsheet</a></li>
+                                        <li><a href="pages-login.html">Login & Register</a></li>
+                                        <li><a href="pages-404.html">404 Page</a></li>
+                                        <li><a href="pages-contact.html">Contact</a></li>
+                                    </ul>
+                                </li>
+
+                            </ul>
+                        </nav>
+                        <div class="clearfix"></div>
+                        <!-- Main Navigation / End -->
+
+                    </div>
+                    <!-- Left Side Content / End -->
+                    <!-- Right Side Content / End -->
+                    <div class="right-side">
+
+                        <!--  User Notifications -->
+                        <div class="header-widget hide-on-mobile">
+
+                            <!-- Notifications -->
+                            <div class="header-notifications">
+
+                                <!-- Trigger -->
+                                <div class="header-notifications-trigger">
+                                    <a href="#"><i class="icon-feather-bell"></i><span>4</span></a>
+                                </div>
+
+                                <!-- Dropdown -->
+                                <div class="header-notifications-dropdown">
+
+                                    <div class="header-notifications-headline">
+                                        <h4>Notifications</h4>
+                                        <button class="mark-as-read ripple-effect-dark" title="Mark all as read" data-tippy-placement="left">
+                                            <i class="icon-feather-check-square"></i>
+                                        </button>
+                                    </div>
+
+                                    <div class="header-notifications-content">
+                                        <div class="header-notifications-scroll" data-simplebar>
+                                            <ul>
+                                                <!-- Notification -->
+                                                <li class="notifications-not-read">
+                                                    <a href="dashboard-manage-candidates.html">
+                                                        <span class="notification-icon"><i class="icon-material-outline-group"></i></span>
+                                                        <span class="notification-text">
+                                                            <strong>Michael Shannah</strong> applied for a job <span class="color">Full Stack Software Engineer</span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+
+                                                <!-- Notification -->
+                                                <li>
+                                                    <a href="dashboard-manage-bidders.html">
+                                                        <span class="notification-icon"><i class=" icon-material-outline-gavel"></i></span>
+                                                        <span class="notification-text">
+                                                            <strong>Gilbert Allanis</strong> placed a bid on your <span class="color">iOS App Development</span> project
+                                                        </span>
+                                                    </a>
+                                                </li>
+
+                                                <!-- Notification -->
+                                                <li>
+                                                    <a href="dashboard-manage-jobs.html">
+                                                        <span class="notification-icon"><i class="icon-material-outline-autorenew"></i></span>
+                                                        <span class="notification-text">
+                                                            Your job listing <span class="color">Full Stack PHP Developer</span> is expiring.
+                                                        </span>
+                                                    </a>
+                                                </li>
+
+                                                <!-- Notification -->
+                                                <li>
+                                                    <a href="dashboard-manage-candidates.html">
+                                                        <span class="notification-icon"><i class="icon-material-outline-group"></i></span>
+                                                        <span class="notification-text">
+                                                            <strong>Sindy Forrest</strong> applied for a job <span class="color">Full Stack Software Engineer</span>
+                                                        </span>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <!-- Messages -->
+                            <div class="header-notifications">
+                                <div class="header-notifications-trigger">
+                                    <a href="#"><i class="icon-feather-mail"></i><span>3</span></a>
+                                </div>
+
+                                <!-- Dropdown -->
+                                <div class="header-notifications-dropdown">
+
+                                    <div class="header-notifications-headline">
+                                        <h4>Messages</h4>
+                                        <button class="mark-as-read ripple-effect-dark" title="Mark all as read" data-tippy-placement="left">
+                                            <i class="icon-feather-check-square"></i>
+                                        </button>
+                                    </div>
+
+                                    <div class="header-notifications-content">
+                                        <div class="header-notifications-scroll" data-simplebar>
+                                            <ul>
+                                                <!-- Notification -->
+                                                <li class="notifications-not-read">
+                                                    <a href="dashboard-messages.html">
+                                                        <span class="notification-avatar status-online"><img src="~/images/user-avatar-small-03.jpg" alt=""></span>
+                                                        <div class="notification-text">
+                                                            <strong>David Peterson</strong>
+                                                            <p class="notification-msg-text">Thanks for reaching out. I'm quite busy right now on many...</p>
+                                                            <span class="color">4 hours ago</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+
+                                                <!-- Notification -->
+                                                <li class="notifications-not-read">
+                                                    <a href="dashboard-messages.html">
+                                                        <span class="notification-avatar status-offline"><img src="~/images/user-avatar-small-02.jpg" alt=""></span>
+                                                        <div class="notification-text">
+                                                            <strong>Sindy Forest</strong>
+                                                            <p class="notification-msg-text">Hi Tom! Hate to break it to you, but I'm actually on vacation until...</p>
+                                                            <span class="color">Yesterday</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+
+                                                <!-- Notification -->
+                                                <li class="notifications-not-read">
+                                                    <a href="dashboard-messages.html">
+                                                        <span class="notification-avatar status-online"><img src="~/images/user-avatar-placeholder.png" alt=""></span>
+                                                        <div class="notification-text">
+                                                            <strong>Marcin Kowalski</strong>
+                                                            <p class="notification-msg-text">I received payment. Thanks for cooperation!</p>
+                                                            <span class="color">Yesterday</span>
+                                                        </div>
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+
+                                    <a href="dashboard-messages.html" class="header-notifications-button ripple-effect button-sliding-icon">View All Messages<i class="icon-material-outline-arrow-right-alt"></i></a>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!--  User Notifications / End -->
+                        <!-- User Menu -->
+                        <div class="header-widget">
+
+                            <!-- Messages -->
+                            <div class="header-notifications user-menu">
+                                <div class="header-notifications-trigger">
+                                    <a href="#"><div class="user-avatar status-online"><img src="~/images/user-avatar-small-01.jpg" alt=""></div></a>
+                                </div>
+
+                                <!-- Dropdown -->
+                                <div class="header-notifications-dropdown">
+
+                                    <!-- User Status -->
+                                    <div class="user-status">
+
+                                        <!-- User Name / Avatar -->
+                                        <div class="user-details">
+                                            <div class="user-avatar status-online"><img src="~/images/user-avatar-small-01.jpg" alt=""></div>
+                                            <div class="user-name">
+                                                Tom Smith <span>Freelancer</span>
+                                            </div>
+                                        </div>
+
+                                        <!-- User Status Switcher -->
+                                        <div class="status-switch" id="snackbar-user-status">
+                                            <label class="user-online current-status">Online</label>
+                                            <label class="user-invisible">Invisible</label>
+                                            <!-- Status Indicator -->
+                                            <span class="status-indicator" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+
+                                    <ul class="user-menu-small-nav">
+                                        <li><a href="dashboard.html"><i class="icon-material-outline-dashboard"></i> Dashboard</a></li>
+                                        <li><a href="dashboard-settings.html"><i class="icon-material-outline-settings"></i> Settings</a></li>
+                                        <li><a href="index-logged-out.html"><i class="icon-material-outline-power-settings-new"></i> Logout</a></li>
+                                    </ul>
+
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- User Menu / End -->
+                        <!-- Mobile Navigation Button -->
+                        <span class="mmenu-trigger">
+                            <button class="hamburger hamburger--collapse" type="button">
+                                <span class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </span>
+                            </button>
+                        </span>
+
+                    </div>
+                    <!-- Right Side Content / End -->
+
+                </div>
+            </div>
+            <!-- Header / End -->
+
+        </header>
+        <div class="clearfix"></div>
+        <!-- Header Container / End -->
+        <!-- Dashboard Container -->
+        <div class="dashboard-container">
+
+            <!-- Dashboard Sidebar
+            ================================================== -->
+            <div class="dashboard-sidebar">
+                <div class="dashboard-sidebar-inner" data-simplebar>
+                    <div class="dashboard-nav-container">
+
+                        <!-- Responsive Navigation Trigger -->
+                        <a href="#" class="dashboard-responsive-nav-trigger">
+                            <span class="hamburger hamburger--collapse">
+                                <span class="hamburger-box">
+                                    <span class="hamburger-inner"></span>
+                                </span>
+                            </span>
+                            <span class="trigger-title">Dashboard Navigation</span>
+                        </a>
+
+                        <!-- Navigation -->
+                        <div class="dashboard-nav">
+                            <div class="dashboard-nav-inner">
+
+                                <ul data-submenu-title="Hızlı Erişim">
+                                    <li class="active"><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Dashboard')"><i class="icon-material-outline-dashboard"></i>Panel</a></li>
+                                    @* <li><a href="dashboard-messages.html"><i class="icon-material-outline-question-answer"></i> Departman <span class="nav-tag">2</span></a></li> *@
+                                </ul>
+
+                                @* <ul data-submenu-title="Site Yönetimi">
+                                <li>
+                                <a href="#"><i class="icon-material-outline-business-center"></i>Genel Yönetim</a>
+                                <ul>
+                                <li><a href="dashboard-manage-jobs.html">Site Sayfaları <span class="nav-tag">3</span></a></li>
+                                <li><a href="dashboard-manage-candidates.html">Slaytlar</a></li>
+                                <li><a href="dashboard-post-a-job.html">Kategoriler</a></li>
+                                <li><a href="dashboard-post-a-job.html">Site Ayarları</a></li>
+                                <li><a href="dashboard-post-a-job.html"></a></li>
+                                </ul>
+                                </li>
+                                <li>
+                                <a href="#"><i class="icon-material-outline-assignment"></i> İçerik Yönetimi</a>
+                                <ul>
+                                <li><a href="dashboard-manage-tasks.html">İlan <span class="nav-tag">2</span></a></li>
+                                <li><a href="dashboard-manage-bidders.html">Teklif</a></li>
+                                <li><a href="dashboard-my-active-bids.html">Sipariş <span class="nav-tag">4</span></a></li>
+                                <li><a href="dashboard-my-active-bids.html">Portfolyo <span class="nav-tag">4</span></a></li>
+                                </ul>
+                                </li>
+
+                                <li>
+                                <a href="#"><i class="icon-material-outline-assignment"></i>Sistem Yönetimi</a>
+                                <ul>
+                                <li><a href="dashboard-manage-tasks.html">Bildirimler <span class="nav-tag">2</span></a></li>
+                                <li><a href="dashboard-manage-bidders.html">Görüntülenmeler</a></li>
+                                <li><a href="dashboard-my-active-bids.html">Listeler <span class="nav-tag">4</span></a></li>
+                                <li><a href="dashboard-my-active-bids.html">Değerlendirmeler <span class="nav-tag">4</span></a></li>
+                                <li><a href="dashboard-my-active-bids.html">Ödemeler <span class="nav-tag">4</span></a></li>
+                                <li><a href="dashboard-my-active-bids.html">Kuponlar <span class="nav-tag">4</span></a></li>
+                                </ul>
+                                </li>
+
+                                <li>
+                                <a href="#"><i class="icon-material-outline-assignment"></i>Para Yönetimi</a>
+                                <ul>
+                                <li><a href="dashboard-manage-tasks.html">Para Akışı <span class="nav-tag">2</span></a></li>
+                                <li><a href="dashboard-manage-bidders.html">Ödemeler</a></li>
+                                <li><a href="dashboard-my-active-bids.html">Para Çekme İstekleri <span class="nav-tag">4</span></a></li>
+                                </ul>
+                                </li>
+                                </ul>
+
+                                <ul data-submenu-title="Kullanıcı Yönetimi">
+                                <li><a href="dashboard-settings.html"><i class="icon-material-outline-settings"></i> Kullanıcılar</a></li>
+                                <li><a href="index-logged-out.html"><i class="icon-material-outline-power-settings-new"></i> Takımlar </a></li>
+                                <li><a href="index-logged-out.html"><i class="icon-material-outline-power-settings-new"></i> Hesap Numaraları </a></li>
+                                </ul> *@
+
+                                <ul data-submenu-title="Proje Tabloları">
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=User')"><i class="icon-material-outline-settings"></i> Kullanıcılar</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=BankaHesap')"><i class="icon-material-outline-settings"></i> Banka Hesabı</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Bildirim')"><i class="icon-material-outline-settings"></i> Bildirim</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Degerlendirme')"><i class="icon-material-outline-settings"></i> Değerlendirme</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Ilan')"><i class="icon-material-outline-settings"></i> İlan</a></li>
+                                    @* <li><a><i class="icon-material-outline-settings"></i> İlan Listesi</a></li> *@
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=KullaniciAyar')"><i class="icon-material-outline-settings"></i> Kullanıcı Ayarı</a></li>
+                                    @* <li><a><i class="icon-material-outline-settings"></i> Kullanıcı Bildirimi</a></li> *@
+                                    @* <li><a><i class="icon-material-outline-settings"></i> Kullanıcı Takımı</a></li> *@
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Kupon')"><i class="icon-material-outline-settings"></i> Kupon</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Liste')"><i class="icon-material-outline-settings"></i> Liste</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=ListeVeri')"><i class="icon-material-outline-settings"></i> Liste Veriler</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Medya')"><i class="icon-material-outline-settings"></i> Medya</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Mesaj')"><i class="icon-material-outline-settings"></i> Mesaj</a></li>
+                                    @* <li><a><i class="icon-material-outline-settings"></i> Mesaj Eki</a></li> *@
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Portfolyo')"><i class="icon-material-outline-settings"></i> Portfolyo</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Siparis')"><i class="icon-material-outline-settings"></i> Sipariş</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=SistemGecmisi')"><i class="icon-material-outline-settings"></i> Sistem Geçmişi</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Takim')"><i class="icon-material-outline-settings"></i> Takım</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Teklif')"><i class="icon-material-outline-settings"></i> Teklif</a></li>
+                                    <li><a onclick="getViewComponent('/AdminOld/Home/GetViewComponent?component=Ticket')"><i class="icon-material-outline-settings"></i> Destek Bileti</a></li>
+                                    @* <li><a><i class="icon-material-outline-settings"></i> Kullanıcı</a></li> *@
+                                </ul>
+
+                            </div>
+                        </div>
+                        <!-- Navigation / End -->
+
+                    </div>
+                </div>
+            </div>
+            <!-- Dashboard Sidebar / End -->
+            @RenderBody()
+
+
+
+
+        </div>
+        <!-- Dashboard Container / End -->
+
+    </div>
+    <!-- Wrapper / End -->
+    <!-- Apply for a job popup
+    ================================================== -->
+    @* 	<div id="small-dialog" class="zoom-anim-dialog mfp-hide dialog-with-tabs">
+
+    <!--Tabs -->
+    <div class="sign-in-form">
+
+    <ul class="popup-tabs-nav">
+    <li><a href="#tab">Add Note</a></li>
+    </ul>
+
+    <div class="popup-tabs-container">
+
+    <!-- Tab -->
+    <div class="popup-tab-content" id="tab">
+
+    <!-- Welcome Text -->
+    <div class="welcome-text">
+    <h3>Do Not Forget 😎</h3>
+    </div>
+
+    <!-- Form -->
+    <form method="post" id="add-note">
+
+    <select class="selectpicker with-border default margin-bottom-20" data-size="7" title="Priority">
+    <option>Low Priority</option>
+    <option>Medium Priority</option>
+    <option>High Priority</option>
+    </select>
+
+    <textarea name="textarea" cols="10" placeholder="Note" class="with-border"></textarea>
+
+    </form>
+
+    <!-- Button -->
+    <button class="button full-width button-sliding-icon ripple-effect" type="submit" form="add-note">Add Note <i class="icon-material-outline-arrow-right-alt"></i></button>
+
+    </div>
+
+    </div>
+    </div>
+    </div>  *@
+    <!-- Apply for a job popup / End -->
+    <!-- Scripts
+    ================================================== -->
+    @*     <script src="~/js/jquery-3.6.0.min.js"></script>
+    <script src="~/js/jquery-migrate-3.3.2.min.js"></script> *@
+    <script src="~/js/mmenu.min.js"></script>
+    <script src="~/js/tippy.all.min.js"></script>
+    <script src="~/js/simplebar.min.js"></script>
+    <script src="~/js/bootstrap-slider.min.js"></script>
+    <script src="~/js/bootstrap-select.min.js"></script>
+    <script src="~/js/snackbar.js"></script>
+    <script src="~/js/clipboard.min.js"></script>
+    <script src="~/js/counterup.min.js"></script>
+    <script src="~/js/magnific-popup.min.js"></script>
+    <script src="~/js/slick.min.js"></script>
+    <script src="~/js/custom.js"></script>
+
+    <!-- Snackbar // documentation: https://www.polonel.com/snackbar/ -->
+    <script>
+        // Snackbar for user status switcher
+        $('#snackbar-user-status label').click(function () {
+            Snackbar.show({
+                text: 'Your status has been changed!',
+                pos: 'bottom-center',
+                showAction: false,
+                actionText: "Dismiss",
+                duration: 3000,
+                textColor: '#fff',
+                backgroundColor: '#383838'
+            });
+        });
+    </script>
+
+    <!-- Chart.js // documentation: http://www.chartjs.org/docs/latest/ -->
+    <script src="~/js/chart.min.js"></script>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+
+            var componentTarget = $("#viewComponentContainer")
+            getViewComponent("/AdminOld/Home/GetViewComponent?component=Dashboard", componentTarget)
+
+        });
+    </script>
+</body>
+@RenderBody()
+
+</html>

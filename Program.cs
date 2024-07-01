@@ -1,8 +1,11 @@
 var builder = WebApplication.CreateBuilder(args);
-
+var configuration = builder.Configuration;
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddHttpClient("MyHttpClient", client =>
+{
+    client.BaseAddress = new Uri(configuration["BaseAddress"]);
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
